@@ -1,17 +1,19 @@
-# ejari
+# Ejari Mobile App
 
-A new Flutter project.
+A mobile application developed using Flutter for managing rental properties.
 
-## Getting Started
+## Features:
+- User-friendly interface
+- Property listing
+- Property management
+- Easy navigation
 
-This project is a starting point for a Flutter application.
+## Technologies:
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## Description:
+Ejari is a mobile application designed to simplify rental property management. The app allows users to browse properties and manage rental information easily and efficiently.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author:
+Manar Alattari
